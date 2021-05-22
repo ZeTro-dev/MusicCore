@@ -1,3 +1,3 @@
 # MusicCore
-Appli mucis
+Appli music
 etet
